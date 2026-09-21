@@ -1,0 +1,74 @@
+{
+  "@@locale": "en",
+  "appTitle": "Settings Demo",
+  "@appTitle": {},
+
+  "greeting": "Hello, {name}!",
+  "@greeting": {
+    "placeholders": {
+      "name": {"type": "String"}
+    }
+  },
+
+  "themeSectionTitle": "Theme",
+  "@themeSectionTitle": {},
+  "themeSystem": "System",
+  "@themeSystem": {},
+  "themeLight": "Light",
+  "@themeLight": {},
+  "themeDark": "Dark",
+  "@themeDark": {},
+  "seedColorLabel": "Seed color",
+  "@seedColorLabel": {},
+
+  "languageSectionTitle": "Language",
+  "@languageSectionTitle": {},
+  "languageSystemDefault": "System default",
+  "@languageSystemDefault": {},
+
+  "textSizeSectionTitle": "Text size",
+  "@textSizeSectionTitle": {},
+  "textSizePreview": "The quick brown fox jumps over the lazy dog.",
+  "@textSizePreview": {},
+
+  "aboutSectionTitle": "About",
+  "@aboutSectionTitle": {},
+  "appVersionLabel": "Version {version} ({buildNumber})",
+  "@appVersionLabel": {
+    "placeholders": {
+      "version": {"type": "String"},
+      "buildNumber": {"type": "String"}
+    }
+  },
+  "platformLabel": "Platform: {platform}",
+  "@platformLabel": {
+    "placeholders": {
+      "platform": {"type": "String"}
+    }
+  },
+
+  "privacySectionTitle": "Privacy",
+  "@privacySectionTitle": {},
+  "analyticsToggleLabel": "Send anonymous analytics",
+  "@analyticsToggleLabel": {},
+  "analyticsToggleHelper": "Device setting — survives logging out.",
+  "@analyticsToggleHelper": {},
+  "hideBalancesToggleLabel": "Hide account balances",
+  "@hideBalancesToggleLabel": {},
+  "hideBalancesToggleHelper": "Account setting — cleared when you log out.",
+  "@hideBalancesToggleHelper": {},
+
+  "accountSectionTitle": "Account",
+  "@accountSectionTitle": {},
+  "logOutButton": "Log out",
+  "@logOutButton": {},
+  "resetAppButton": "Reset app to defaults",
+  "@resetAppButton": {},
+
+  "firstLaunchWelcomeTitle": "Welcome!",
+  "@firstLaunchWelcomeTitle": {},
+  "firstLaunchWelcomeBody": "This banner only shows on the first launch.",
+  "@firstLaunchWelcomeBody": {},
+  "firstLaunchDismiss": "Got it",
+  "@firstLaunchDismiss": {}
+}
